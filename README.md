@@ -10,4 +10,5 @@ Use: mvn jetty:run to run the project
 Call: localhost:8080 in Browser
 
 
+Icon from: pyconic.com
 
